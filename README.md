@@ -1,5 +1,3 @@
-public class ReadMe {
-    /**
      * 程序名:图书管理系统
      * 作者: WenBao
      * 前言:师从B站楠哥视频"Java Web从入门到实战【完整版】",历经一个月多学完JavaWeb基础构建.
@@ -38,5 +36,3 @@ public class ReadMe {
      *          2)ReaderRepository  读者底层实现类
      *          3)BookRepository    图书底层实现类
      *          4)BorrowRepository  借书底层实现类
-     */
-}
